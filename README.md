@@ -51,7 +51,7 @@ J’aime apprendre, collaborer et transformer une idée en produit concret.
 ### Projets GitHub
 
 ### Portfolio Personnel
-	Site personnel mettant en avant mes réalisations et compétences.	
+[Site personnel mettant en avant mes réalisations et compétences](https://angelangassam.github.io/angela-ngassam/)
   
 (Les liens seront mis à jour au fur et à mesure des publications sur GitHub.)
 
