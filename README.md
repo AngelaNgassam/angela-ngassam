@@ -1,4 +1,4 @@
- # NGASSAM Angela - Portfolio
+# NGASSAM Angela - Portfolio
  
 Étudiante en Développement Web Full Stack | Future Expert en Architecture et Développement Logiciel et DevOps
  
